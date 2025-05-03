@@ -1,0 +1,16 @@
+2025-05-02 15:43:24,321 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-02 15:43:24,324 - discord.client - INFO - logging in using static token
+2025-05-02 15:43:25,436 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ed9da0e7a6b578928891f9c70657d386).
+2025-05-02 15:43:27,467 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-02 15:45:34,933 - SpotifyDownloaderBot - ERROR - ダウンロード中にエラーが発生しました: [WinError 2] 指定されたファイルが見つかりません。
+2025-05-02 15:47:36,528 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-02 15:47:36,530 - discord.client - INFO - logging in using static token
+2025-05-02 15:47:37,709 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3711747e180a0e14efbc131872fabbcb).
+2025-05-02 15:47:39,713 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-02 15:48:04,152 - SpotifyDownloaderBot - ERROR - ダウンロード中にエラーが発生しました: [WinError 2] 指定されたファイルが見つかりません。
+2025-05-02 16:03:50,151 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-02 16:03:50,153 - discord.client - INFO - logging in using static token
+2025-05-02 16:03:51,249 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9e0fca6b2edbabfd4ca0fbed79ab31c6).
+2025-05-02 16:03:53,258 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-02 16:04:21,072 - SpotifyDownloaderBot - ERROR - ダウンロード中にエラーが発生しました: C:\Users\sakip\AppData\Local\Programs\Python\Python310\python.exe: No module named spotdl
+

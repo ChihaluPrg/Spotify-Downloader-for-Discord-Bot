@@ -1,0 +1,5 @@
+{
+    "files.defaultLanguage": "editor.defaultFormatter",
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.formatOnSave": true
+}
